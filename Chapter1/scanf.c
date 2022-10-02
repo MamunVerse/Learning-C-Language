@@ -2,7 +2,7 @@
 
 int main(){
     
-    int a, b;
+    int a, b, sum;
 
     printf("Enter a \n");
     scanf("%d", &a);
@@ -10,9 +10,9 @@ int main(){
     printf("Enter b \n");
     scanf("%d", &b);
 
-    int sum = a+b;
+    sum = a+b;
 
-    printf("The sum is : %d", sum);
+    printf("The sum is : %d \n", sum);
 
 
     return 0;
