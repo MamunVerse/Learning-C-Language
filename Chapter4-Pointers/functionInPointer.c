@@ -21,7 +21,7 @@ void square(int n){
     printf("Square =  %d \n", n);
 }
 
-// call by address
+// call by Referance
 void _square(int *n){
     *n = (*n) * (*n);
     printf("Square =  %d \n", *n);
