@@ -1,5 +1,5 @@
 /*
-Problem 1 : Write 2 functions thats print Assalamualaikum if user is Bangladeshi & Namaste if user in Indian.
+Problem 1 : Write 2 functions thats print Assalamualaikum if user is Bangladeshi, print Namaste if user in Indian & Hello for others.
 */
 
 # include <stdio.h>
@@ -11,7 +11,7 @@ void namaste();
 int main(){
     
     printf("Enter b for Bangladeshi & i for Indian : \n");
-    
+
     char ch;
     scanf("%c", &ch);
 
