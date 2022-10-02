@@ -10,7 +10,7 @@ int main(){
 
     while(i <= number)
     {
-        printf("%d \n", i);
+       printf("Final  factorial is : %d \n",fact);
 
         i++;
     }
