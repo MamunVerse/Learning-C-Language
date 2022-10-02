@@ -1,5 +1,6 @@
 /*
-Problem 1 : Write 2 functions thats print Assalamualaikum if user is Bangladeshi, print Namaste if user in Indian.  And just print Hello for others.
+Problem 1 : Write 2 functions thats print Assalamualaikum if user is Bangladeshi, print Namaste if user in Indian.  
+And just print Hello for others.
 */
 
 # include <stdio.h>
